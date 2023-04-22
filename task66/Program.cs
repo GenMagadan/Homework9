@@ -18,7 +18,6 @@ if (N > M)
 
 int SumElementInNumber(int number1, int number2)
 {
-   int temp;
    if (number1 > number2)
    {
       return 0;
